@@ -1,0 +1,17 @@
+//
+//  MLImageView.h
+//  ProjectBaseService
+//
+//  Created by mozat on 2019/4/5.
+//  Copyright © 2019 xiaozf. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface MLImageView : UIImageView
+
+@end
+
+NS_ASSUME_NONNULL_END
